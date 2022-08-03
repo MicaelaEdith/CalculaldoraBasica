@@ -51,7 +51,6 @@ public class Calculadora extends JFrame {
 	char operacion=' ';
 	
 	public Calculadora() {
-		setType(Type.UTILITY);
 		setForeground(SystemColor.control);
 		setBackground(SystemColor.text);
 		setTitle("Calculadora");
